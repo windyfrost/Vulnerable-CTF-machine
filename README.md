@@ -21,3 +21,6 @@ Enjoy and have fun hacking!
 
 Windows XP - Resources
 https://jerrytravis.com/878/free-utility-to-generate-md5-and-sha1-checksums-in-windows-xpvista7
+
+Windows XP.iso - Resources
+https://archive.org/details/WinXPProSP3x86
